@@ -1,0 +1,101 @@
+* {
+
+    font-family: 'poppins', sans sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+header {
+    margin: 47px 0 208.2 42px;
+
+}
+
+.link-header {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #17233D;
+    cursor: pointer;
+    text-align: center;
+    margin-right: 32px;
+
+
+}
+
+.link-header-Products {
+    margin-left: 42px;
+
+}
+
+.button-header {
+    background: #6FBF44;
+    border: 1px solid #4CB538;
+    border-radius: 6px;
+    width: 124px;
+    height: 51px;
+    border: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    /* identical to box height */
+
+    letter-spacing: 1px;
+
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.logo-imagem {
+    margin-top: 163px;
+    margin-left: 123px;
+    width: 595.18px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+.section {
+    display: inline-block;
+    margin-left: 84,98;
+    width: 493px;
+}
+
+h1 {
+    font-weight: 700;
+    font-size: 62px;
+    line-height: 82px;
+    /* or 132% */
+    letter-spacing: 0.596154px;
+    color: #161A49;
+}
+
+.Shared {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 33px;
+    /* or 183% */
+    color: #4B505A;
+    width: 493px;
+    margin-top: 47px;
+    margin-bottom: 55px;
+    margin-right: 146px;
+    margin-left: 96, 83;
+
+}
+
+.Learn {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 27px;
+    /* identical to box height */
+
+    letter-spacing: 1px;
+
+    color: #6FBF44;
+cursor: pointer;
+background: transparent;
+border: none;
+
+}
